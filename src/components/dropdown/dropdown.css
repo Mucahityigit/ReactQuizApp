@@ -1,0 +1,10 @@
+.dropdown {
+}
+.dropdown select {
+  width: 360px;
+  height: 50px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  padding: 0 15px;
+  font-size: 16px;
+}
